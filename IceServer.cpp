@@ -1,5 +1,4 @@
 
-#include <Ice/Ice.h>
 #include "demo.h"
 #include <thread>
 using namespace Demo;
