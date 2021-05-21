@@ -2,7 +2,7 @@
 #include "demo.h"
 #include <thread>
 using namespace Demo;
-using namespace std;
+
 void HandleThread(const  AMD_Printer_printStringPtr &callback)
 {
 	std::this_thread::sleep_for(std::chrono::seconds(5));
