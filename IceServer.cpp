@@ -1,7 +1,7 @@
 
 #include "demo.h"
 #include <thread>
-using namespace Demo;
+
 
 void HandleThread(const  AMD_Printer_printStringPtr &callback)
 {
